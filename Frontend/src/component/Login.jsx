@@ -90,7 +90,7 @@ const Login = () => {
           </div>
 
           <p className="login-bottom-p">
-            Don't have an account? <a href="/Signup">Sign Up</a>
+            Don't have an account? <a href="/signup">Sign Up</a>
           </p>
         </div>
       </div>
